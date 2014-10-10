@@ -19,6 +19,8 @@ gem 'jbuilder',                '2.1.3'
 gem 'rails-html-sanitizer',    '1.0.1'
 gem 'sdoc',                    '0.4.0', group: :doc
 
+gem 'therubyracer'
+
 group :development, :test do
   gem 'sqlite3',     '1.3.9'
   gem 'byebug',      '3.4.0'
